@@ -12,7 +12,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url(./img/bg.jpg) bottom;
+  background: url(./bg.jpg) bottom;
   object-fit: cover;
 }
 
@@ -110,4 +110,5 @@ input::-webkit-outer-spin-button {
     text-align: center;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
   }
+
 }
